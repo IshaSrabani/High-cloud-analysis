@@ -1,8 +1,9 @@
 # HighCloud Airlines Analysis
-# Access Full Dashboard File
+
+**Access Full Dashboard File**
 
 The Excel dashboard file is over 25MB and cannot be stored directly in this repository.  
-👉 [Download the Excel Dashboard from Google Drive]([https://your-drive-link-here) *(replace with actual link](https://drive.google.com/drive/folders/1lcQByUpdgK36vg5aiFrifJym_Krsc3SN))*
+👉 [Download the Excel Dashboard from Google Drive]([https://your-drive-link-here) *(https://drive.google.com/drive/folders/1lcQByUpdgK36vg5aiFrifJym_Krsc3SN))*
 
 
 This project presents an end-to-end data analysis case study for **HighCloud Airlines**, a fictional airline. It focuses on deriving meaningful business insights from flight operations data using SQL and visualizing them using Excel, Power BI and Tableau.
